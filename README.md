@@ -9,8 +9,8 @@ Let’s connect and build something amazing together!
 </p>
 
 <p align="center">
-  <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:degrante77@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/paul-akelo-377577291"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
  
 </p>
 
@@ -43,10 +43,10 @@ Let’s connect and build something amazing together!
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Degrante77&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=paula-dot&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
 
 <!---
-Degrante77/Degrante77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+paula-dot/paula-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

@@ -1,4 +1,6 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi,%20I'm%20Paula!&fontSize=40&fontAlignY=40&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Open%20Source%20Lover&descAlignY=60" alt="header" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!;I+love+creative+coding+and+AI;" alt="Typing SVG" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi,%20I'm%20Paula!&fontSize=40&fontAlignY=40&desc=Aspiring%20Software%20Eng[...]"/>
+
+<p align="center">Software Developer | Geospatial and GIS Analyst | Data Science</p>
 
 ---
 

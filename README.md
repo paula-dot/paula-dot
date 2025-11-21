@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi,%20I'm%20Paula!&fontSize=40&fontAlignY=40&desc=Aspiring%20Software%20Eng[...]"/>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi,%20I'm%20Paula!&fontSize=40&fontAlignY=40&desc=Aspiring%20]"/>
 
 <p align="center">Software Developer | Geospatial and GIS Analyst | Data Science</p>
 

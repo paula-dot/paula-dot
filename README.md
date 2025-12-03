@@ -57,11 +57,11 @@ I build software that turns complex data into actionable insights. My work spans
 
 ![Profile Views](https://komarev.com/ghpvc/?username=paula-dot&color=blueviolet)
 
-![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-dot&show_icons=true&theme=radical)
+<!--- ![Paula's GitHub stats](https://github-readme-stats.vercel.app/api?username=paula-dot&show_icons=true&theme=radical) --->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=paula-dot&theme=radical)](https://git.io/streak-stats)
+<!--- [![GitHub Streak](https://streak-stats.demolab.com/?user=paula-dot&theme=radical)](https://git.io/streak-stats) --->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-dot&layout=compact&theme=radical)
+<!--- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paula-dot&layout=compact&theme=radical) --->
 
 [![Paula's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=paula-dot&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

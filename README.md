@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Paul Akelo
-**Software Engineer | GIS Analyst | Backend Engineer | Data Scienctist**
+**Software Engineer | GIS Analyst | Backend Engineer | Data Scientist**
 
 I build software that turns complex data into actionable insights. My work spans geospatial technology, backend engineering, and data science—ranging from mapping land-use change and social inequality to designing APIs that make (Kenyan) administrative datasets accessible to all.
 
